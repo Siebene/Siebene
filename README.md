@@ -1,6 +1,5 @@
 **ID** Siebene@  
-🥰 平时会打打CTF  
-🤔 学习WEB安全中
+个人博客: https://yao-mou.gitee.io/
 <!--
 **Siebene/Siebene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
